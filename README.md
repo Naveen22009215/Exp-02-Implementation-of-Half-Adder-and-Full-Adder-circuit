@@ -83,7 +83,8 @@ endmodule
 ## HALF ADDER:
 ![image](https://user-images.githubusercontent.com/119401470/230388438-33f0f6df-4771-4385-af4c-ff693f767941.png)
  ## FULL ADDER:
- ![image](https://user-images.githubusercontent.com/119401470/230388534-0320e5db-bae4-4f78-a78a-2b799742d117.png)
+
+![WhatsApp Image 2023-04-13 at 11 51 27](https://user-images.githubusercontent.com/119401470/231671910-9602cbd0-07a0-4a76-b0ae-ff65c32c125c.jpg)
 
 
 ### Result:
